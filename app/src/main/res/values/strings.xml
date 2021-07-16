@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Grupal</string>
+    <string name="ganaste">Ganaste eres un Crack</string>
+    <string name="perdiste">Perdiste la respuesta correcta es:</string>
+    <string name="titulo">Adivina el numero</string>
+    <string name="limite">Adivina el numero del 0 al</string>
+    <string name="ingresar">Ingresa el valor numerico</string>
+    <string name="botonmainmenu">Verificar</string>
+    <string name="respuesta">Esperando...</string>
+    <string name="botonpantallainicial">Vamos de nuevo</string>
 </resources>
